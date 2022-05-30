@@ -1,0 +1,38 @@
+.dropdown {
+  display: flex;
+  justify-content: flex-end;
+}
+.container-1,
+.container-2 {
+  background-color: blue;
+}
+h6,
+h1,
+p {
+  color: white;
+}
+body {
+  line-height: 1.5rem;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 16px;
+  color: #87909e;
+  background-color: #fff;
+}
+.learning {
+  color: #87909e;
+  text-align: center;
+}
+.learning-header {
+  color: black;
+  text-align: center;
+}
+.tts {
+  color: black;
+  text-align: center;
+}
+.container-3{
+  
+}

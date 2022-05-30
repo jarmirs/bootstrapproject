@@ -21,11 +21,13 @@ body {
   color: #87909e;
   background-color: #fff;
 }
-.learning {
+.learning,
+.card-text {
   color: #87909e;
   text-align: center;
 }
-.learning-header {
+.learning-header,
+.card-title {
   color: black;
   text-align: center;
 }
@@ -33,6 +35,19 @@ body {
   color: black;
   text-align: center;
 }
-.container-3{
-  
+.container-3 {
+}
+.third-pic {
+  width: 300px;
+  height: 300px;
+}
+.btn btn-primary btn-lg {
+  display: flex;
+  justify-content: center;
+}
+.calendar {
+  min-width: 312px;
+  min-height: 516px;
+  height: 756px;
+  border: none;
 }

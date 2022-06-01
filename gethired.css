@@ -2,8 +2,7 @@
   display: flex;
   justify-content: flex-end;
 }
-.container-1,
-.container-2 {
+.container-1 {
   background-color: blue;
 }
 h6,
@@ -50,4 +49,38 @@ body {
   min-height: 516px;
   height: 756px;
   border: none;
+}
+li {
+  list-style-type: none;
+}
+
+.li-header {
+  list-style-type: none;
+  color: black;
+}
+.li-items {
+  color: #87909e;
+}
+.col-col-md-12 {
+  background-color: #87909e;
+}
+.graduates {
+  color: white;
+  text-align: center;
+}
+.btn-btn-primary-mb-2 {
+  background-color: black;
+  color: white;
+  height: 40px;
+  border-radius: 10%;
+}
+.card-career {
+  color: blue;
+}
+
+.btn-btn-primary-btn-lg-3 {
+  display: block;
+  margin: 0 auto;
+  background-color: blue;
+  color: white;
 }
